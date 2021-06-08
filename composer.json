@@ -1,0 +1,21 @@
+{
+    "name": "potime/yii2-wang-editor",
+    "description": "WangEditor widget for Yii 2.0 Framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","wangEditor","editor"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ivan",
+            "email": "ivan@potime.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "potime\\wangEditor\\": "src"
+        }
+    }
+}
